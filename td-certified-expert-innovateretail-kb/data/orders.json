@@ -1,0 +1,22 @@
+[
+  {
+    "id": "1001",
+    "email": "sam@example.com",
+    "phone": "+14155550100",
+    "status": "Shipped",
+    "carrier": "UPS",
+    "tracking": "1Z999AA10123456784",
+    "membershipTier": "Gold",
+    "items": [{"sku": "KTL-001", "qty": 1}]
+  },
+  {
+    "id": "1002",
+    "email": "ava@example.com",
+    "phone": "+12125550123",
+    "status": "Processing",
+    "carrier": null,
+    "tracking": null,
+    "membershipTier": "Silver",
+    "items": [{"sku": "MUG-002", "qty": 2}]
+  }
+]
