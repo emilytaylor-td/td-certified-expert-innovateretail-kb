@@ -1,3 +1,3 @@
 [build]
-  publish = "."
-  functions = "netlify/functions"
+  publish = "td-certified-expert-innovateretail-kb"
+  functions = "td-certified-expert-innovateretail-kb/netlify/functions"
