@@ -1,0 +1,56 @@
+[
+  {
+    "sku": "KTL-001",
+    "itemName": "Model X Smart Kettle",
+    "description": "App-connected electric kettle with precision temperature control.",
+    "price": 129.99,
+    "inStock": true,
+    "availableQty": 42,
+    "restockDate": null
+  },
+  {
+    "sku": "EAR-201",
+    "itemName": "Wireless Earbuds Pro",
+    "description": "Noise-cancelling earbuds with charging case.",
+    "price": 179.0,
+    "inStock": false,
+    "availableQty": 0,
+    "restockDate": "2025-11-10"
+  },
+  {
+    "sku": "MUG-310",
+    "itemName": "Smart Mug",
+    "description": "Temperature-controlled ceramic mug.",
+    "price": 99.0,
+    "inStock": true,
+    "availableQty": 18,
+    "restockDate": null
+  },
+  {
+    "sku": "SPK-120",
+    "itemName": "Bluetooth Speaker Mini",
+    "description": "Portable speaker with 12-hour battery life.",
+    "price": 59.95,
+    "inStock": true,
+    "availableQty": 7,
+    "restockDate": null
+  },
+  {
+    "sku": "CHG-045",
+    "itemName": "USB-C Fast Charger 45W",
+    "description": "Compact GaN charger with USB-C PD.",
+    "price": 39.99,
+    "inStock": true,
+    "availableQty": 120,
+    "restockDate": null
+  },
+  {
+    "sku": "THM-220",
+    "itemName": "Smart Thermometer",
+    "description": "Bluetooth kitchen thermometer with app alerts.",
+    "price": 49.0,
+    "inStock": false,
+    "availableQty": 0,
+    "restockDate": "2025-11-03"
+  }
+]
