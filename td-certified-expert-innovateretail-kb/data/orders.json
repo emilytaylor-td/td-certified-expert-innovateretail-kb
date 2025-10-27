@@ -7,7 +7,52 @@
     "carrier": "UPS",
     "tracking": "1Z999AA10123456784",
     "membershipTier": "Gold",
-    "items": [{"sku": "KTL-001", "qty": 1}]
+    "deliveryAddress": {
+      "name": "Sam Rivera",
+      "line1": "245 Market St",
+      "line2": "Apt 12B",
+      "city": "San Francisco",
+      "region": "CA",
+      "postal": "94105",
+      "country": "US"
+    },
+    "items": [
+      {
+        "sku": "KTL-001",
+        "itemName": "Model X Smart Kettle",
+        "description": "App-connected electric kettle with precision temperature control.",
+        "cost": 129.99,
+        "qty": 1
+      },
+      {
+        "sku": "EAR-201",
+        "itemName": "Wireless Earbuds Pro",
+        "description": "Noise cancelling earbuds with charging case.",
+        "cost": 179.00,
+        "qty": 1
+      },
+      {
+        "sku": "MUG-310",
+        "itemName": "Smart Mug",
+        "description": "Temperature-controlled ceramic mug.",
+        "cost": 99.00,
+        "qty": 1
+      },
+      {
+        "sku": "SPK-120",
+        "itemName": "Bluetooth Speaker Mini",
+        "description": "Portable speaker with 12-hour battery life.",
+        "cost": 59.95,
+        "qty": 1
+      },
+      {
+        "sku": "CHG-045",
+        "itemName": "USB-C Fast Charger 45W",
+        "description": "Compact GaN charger with USB-C PD.",
+        "cost": 39.99,
+        "qty": 1
+      }
+    ]
   },
   {
     "id": "1002",
@@ -17,6 +62,30 @@
     "carrier": null,
     "tracking": null,
     "membershipTier": "Silver",
-    "items": [{"sku": "MUG-002", "qty": 2}]
+    "deliveryAddress": {
+      "name": "Ava Chen",
+      "line1": "77 Madison Ave",
+      "line2": "",
+      "city": "New York",
+      "region": "NY",
+      "postal": "10016",
+      "country": "US"
+    },
+    "items": [
+      {
+        "sku": "KTL-001",
+        "itemName": "Model X Smart Kettle",
+        "description": "App-connected electric kettle with precision temperature control.",
+        "cost": 129.99,
+        "qty": 1
+      },
+      {
+        "sku": "THM-220",
+        "itemName": "Smart Thermometer",
+        "description": "Bluetooth kitchen thermometer with app alerts.",
+        "cost": 49.00,
+        "qty": 1
+      }
+    ]
   }
 ]
