@@ -59,8 +59,8 @@
     "email": "ava@example.com",
     "phone": "+12125550123",
     "status": "Processing",
-    "carrier": null,
-    "tracking": null,
+    "carrier": "not available",
+    "tracking": "not available",
     "membershipTier": "Silver",
     "deliveryAddress": {
       "name": "Ava Chen",
